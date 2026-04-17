@@ -1,0 +1,20 @@
+# Customer Churn Prediction Project
+
+print("Customer Churn Prediction")
+
+# Import libraries
+import pandas as pd
+
+# Sample data
+data = {
+    "Customer": ["A", "B", "C"],
+    "Churn": [1, 0, 1]
+}
+
+df = pd.DataFrame(data)
+
+print(df)
+
+# Simple analysis
+churn_rate = df["Churn"].mean()
+print("Churn Rate:", churn_rate)
