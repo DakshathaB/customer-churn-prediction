@@ -4,18 +4,18 @@
 This project focuses on analyzing customer data to identify churn patterns and predict customers who are likely to leave.
 
 ## Tools Used
-- Python (Pandas)
-- Data Analysis
-- Machine Learning (Basic)
+- Python (Pandas, NumPy)
+- Matplotlib, Seaborn
+- Scikit-learn
 
 ## Steps Performed
-- Created sample dataset
-- Performed data analysis
-- Calculated churn rate
+- Performed data cleaning and preprocessing
+- Conducted exploratory data analysis (EDA)
+- Built a Logistic Regression model for prediction
 
 ## Result
-- Identified churn rate from dataset
-- Demonstrated understanding of churn analysis
+- Achieved basic churn prediction
+- Identified key factors influencing customer churn
 
 ## Conclusion
-This project helps in understanding customer behavior and supports business decision-making for improving customer retention.
+This project demonstrates how data analysis and machine learning can be used to understand customer behavior and support business decisions.
