@@ -19,3 +19,8 @@ This project focuses on analyzing customer data to identify churn patterns and p
 
 ## Conclusion
 This project demonstrates how data analysis and machine learning can be used to understand customer behavior and support business decisions.
+
+## Future Improvements
+- Hyperparameter tuning
+- Model deployment
+- Dashboard integration
